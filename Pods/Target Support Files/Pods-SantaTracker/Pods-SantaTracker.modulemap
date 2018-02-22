@@ -1,0 +1,6 @@
+framework module Pods_SantaTracker {
+  umbrella header "Pods-SantaTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
